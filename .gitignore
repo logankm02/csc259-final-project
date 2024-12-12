@@ -1,0 +1,4 @@
+venv/
+*.y4m
+*.txt
+*.compressed
