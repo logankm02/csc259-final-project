@@ -2,3 +2,4 @@ venv/
 *.y4m
 *.txt
 *.compressed
+.DS_Store
