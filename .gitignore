@@ -2,4 +2,5 @@ venv/
 *.y4m
 *.txt
 *.compressed
+output_videos/
 .DS_Store
